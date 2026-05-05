@@ -1,11 +1,11 @@
-.header{
+h1{
     color: darkred;
 }
 
-.subheader{
-
+h2{
+    color: green;
 }
 
-.body{
-        font-family: 'Times New Roman', Times, serif;
+p{
+    font-family: 'Times New Roman', Times, serif;
 }
