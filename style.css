@@ -1,5 +1,6 @@
 head{
     display: inline-block;
+    color: peachpuff;
 }
 
 html{
@@ -7,17 +8,14 @@ html{
 }
 
 h1{
+    font-family: ;
     color: darkred;
 }
 
 h2{
-    color: green;
+    color: lightsalmon;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
-}
-
-header{
-    color:grey;
 }
