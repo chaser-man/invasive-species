@@ -9,15 +9,15 @@ html{
 
 h1{
     font-family: ;
-    color: darkred;
+    color: rgba(73, 51, 124, 0.387);
 }
 
 h2{
-    color: rgb(199, 43, 29);
+    color: rgb(160, 95, 89);
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(223, 36, 36);
+    color: rgb(238, 170, 170);
 }
 
