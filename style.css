@@ -13,9 +13,11 @@ h1{
 }
 
 h2{
-    color: lightsalmon;
+    color: rgb(199, 43, 29);
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(223, 36, 36);
 }
+
