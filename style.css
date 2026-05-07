@@ -4,6 +4,7 @@ head{
 }
 
 html{
+    font-family: "Roboto Slab", serif;
     background-color: rgba(73, 51, 124, 0.387);
 }
 
@@ -19,12 +20,4 @@ h2{
 p{
     font-family: 'Times New Roman', Times, serif;
     color: rgba(205, 82, 58, 0.75);
-}
-
-
-.roboto-slab-title {
-  font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
 }
