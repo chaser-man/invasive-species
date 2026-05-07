@@ -4,12 +4,12 @@ head{
 }
 
 html{
-    background-color: rgb(183, 141, 94);
+    background-color: rgba(73, 51, 124, 0.387);
 }
 
 h1{
     font-family: ;
-    color: rgba(73, 51, 124, 0.387);
+    color: rgb(183, 141, 94);
 }
 
 h2{
