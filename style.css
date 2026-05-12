@@ -14,12 +14,13 @@ h1{
 }
 
 h2{
-    font-size: 35px;
+    font-size: 40px;
     color: rgb(117, 39, 20);
     text-align: center;
 }
 
 p{
+    font-size: 15px;
     color: rgba(93, 31, 8, 0.972);
 }
 
