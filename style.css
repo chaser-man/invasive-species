@@ -9,9 +9,11 @@ html{
 
 h1{
     color: rgb(82, 42, 18);
+    font-size: 60px;
 }
 
 h2{
+    font-size: 35px;
     color: rgb(117, 39, 20);
     text-align: center;
 }
